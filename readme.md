@@ -58,7 +58,7 @@ Web development
 
 
   ### University of Edinburgh
-   **2007&mdash; 2011: MA (Hons) Philosophy, 2:1**
+   **MA (Hons) Philosophy, 2:1 : 2007&mdash; 2011 **
    - Politics & Economics taken in 1st & 2nd year
 
    ### Benenden School
