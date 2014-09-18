@@ -56,7 +56,7 @@ Education
 
 
 ### University of Edinburgh
-**MA (Hons) Philosophy, 2:1 : 2007&mdash; 2011 **
+**MA (Hons) Philosophy, 2:1 : 2007&mdash; 2011**
 - Politics & Economics taken in 1st & 2nd year
 
 ### Benenden School
@@ -67,10 +67,12 @@ Education
 | Biology      | **A** |
 | Chemistry AS | **A** |
 
-**GCSEs**: **9 A*s** inc. RS, French, History, Latin & Art
+GCSEs: **9 A*s** inc. RS, French, History, Latin & Art
 
 Experience
 ----------
+
+
 
 ### Morgan Stanley, London
 
@@ -84,5 +86,37 @@ Experience
 - Compiled research projects for the European Auto, Consumer Staples & Luxury Goods teams.
 
 _Internships also completed at **Nomura (FX Trading), CLSA & UBS (Asian Equity Sales)**_
+
+Extra-Curricular
+----------
+
+### Edinburgh University’s Trading & Investment Club [EUTIC]
+
+*With over 500 members EUTIC is Edinburgh’s largest non-sports society.
+The club meets weekly & manages a real money portfolio of £35,000.
+*
+
+**President: 2010&mdash;2011**
+- Coordinated a team of 12, procured corporate sponsorship, managed the budget & fund flows, sourced speakers & ran the weekly meeting.
+- I forged partnerships & instigated a number of initiatives inc. ‘Corporates on Campus’, an Alum Exec board & a Charity Ball.
+- That year the club achieved record membership (600+ people) & sponsorship (£15,000).
+
+**Head of Consumer Sector: 2009&mdash;2001**
+- I was elected by the society to run the Consumer Sector. This involved allocating £5000 into FTSE 100 Equities, organizing weekly research meetings & explaining the basics of investment to younger members.
+
+### PADI Scuba Diving Instructor
+- I began diving when I was 12  & became a fully qualified instructor 6 years later.
+- I have guided & taught in Egypt (Dahab) & Thailand (Koh Toa) for 4 months respectively
+
+Interests
+---------
+
+Software craftmanship
+
+UX & Design
+
+Yoga
+
+Climbing Mountains
 
 
