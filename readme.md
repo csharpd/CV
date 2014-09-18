@@ -8,7 +8,7 @@ Chloe Donegan
 **Currently available for work as a junior developer**
 
 My background is in finance, startups & product management.
-I love creating things. In 2014 I devoted 3 months to learning how to build software myself at Makers Academy.
+I love creating things. In 2014 I devoted 3 months to learning how to build software myself at [Makers Academy].
 
 - Check out my code on [Github]
 - Read more about my journey on my [blog]
@@ -65,11 +65,11 @@ Experience
 ### Entrepreneur  First
 **Product Manager:Jan 13 2013&mdash;March 2014**
 
-*[EF] is an accelerator programme that supports exceptional graduates building high growth technology companies.*
+[EF] is an accelerator programme that takes the best computer scientists and engineers and helps them build world-class tech startups.
 
-During my time with them I built a new business unit for EF, consulted for [Avocarrot], [Flavrbox] & [Farmdrop] & launched a startup
+During my time with them I built a new business unit for EF, consulted for [Avocarrot], [Flavrbox] & [Farmdrop] & launched a startup.
 
-** [Weave], iOS App**
+**[Weave], iOS App**
 - We used agile development methods to rapidly iterate our prototype and applied lean principles throughout, testing our hypotheses before building features.
 - I was charged with drawing up the product spec, wire framing, user testing, customer acquisition and monitoring analytics.
 - I also build partnerships with fashion bloggers and ran a content marketing campaign: www.weavefashion.wordpress.com
@@ -164,6 +164,7 @@ Contact me
 [Avocarrot]: http://www.avocarrot.com/
 [Flavrbox]: http://flavrbox.com/
 [Farmdrop]: https://www.farmdrop.co.uk/#/
+[Makers Academy]: http://www.makersacademy.com/
 
 
 
