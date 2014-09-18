@@ -3,22 +3,20 @@ Chloe Donegan
 
 **Currently available for work as a junior developer**
 
-**Phone: ** 07832367439
+**Phone:** 07832367439
 
 **Email:** [chloedonegan@gmail.com]
 
-Check out my code on [Github]
-Read more about my journey on my [blog]
-Connect with me on [LinkedIn] and [Twitter]
-
-Code Examples
+- Check out my code on [Github]
+- Read more about my journey on my [blog]
+- Connect with me on [LinkedIn] and [Twitter]
 
 Code examples
 -------------
 
 | [Challenge Me] | [Chitter] | [Airport] |
 |:--------------- |:-------- |:--------- |
-| Test Driven Rails MVP created in 10 days to make fundraising fun. | Test-driven sinatra Twitter clone | 100% test-driven Ruby model of airports and planes written using RSpec |
+| Test Driven Rails MVP created in 10 days to make fundraising fun. | Test-driven Twitter clone, created with Sinatra | 100% test-driven Ruby model of airports and planes written using RSpec |
 
 
 Web development
@@ -59,18 +57,16 @@ Web development
   - Final project: [Challenge Me] - a Rails 4 app that uses JustGiving's Api. Aim - making fundraising more engaging. Created in 10 days with [Nicola Aitken], [Jamie Allen], [Toan Nguyen], [Nikesh Ashar] and [Joe Dowdell].
 
   ### University of Edinburgh
-   **2007&mdash; 2011**
-
-   - 2:1 MA (Hons) Philosophy
+   **2007&mdash; 2011: MA (Hons) Philosophy, 2:1**
    - Politics & Economics taken in 1st & 2nd year
 
    ### Benenden School
    | **A Levels** | **GCSEs**|
   |:--------------- |:-------- |
-| Maths **A**| **9 A*s**|
-| Economics **A**| inc. RS, French|
-| Biology **A**| History, Latin|
-| Chemistry AS **A**| & Art|
+| Maths        **A**| **9 A*s** |
+| Economics    **A**| inc. RS, French, History, Latin & Art|
+| Biology      **A**| |
+| Chemistry AS **A**| |
 
 
    --
