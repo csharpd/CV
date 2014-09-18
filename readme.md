@@ -61,12 +61,12 @@ Web development
    - Politics & Economics taken in 1st & 2nd year
 
    ### Benenden School
-   | **A Levels** | **GCSEs**|
-  |:--------------- |:-------- |
-| Maths        **A**| **9 A*s** |
-| Economics    **A**| inc. RS, French, History, Latin & Art|
-| Biology      **A**| |
-| Chemistry AS **A**| |
+   | **A Levels** | **Grade**| **GCSEs**|
+  |:--------------- |:-------- |:-------- |
+| Maths        | **A** | **9 A*s** |
+| Economics    | **A** |inc. RS, French, History, Latin & Art|
+| Biology      | **A** ||
+| Chemistry AS | **A** ||
 
 
    --
