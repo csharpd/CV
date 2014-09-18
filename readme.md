@@ -58,12 +58,12 @@ Experience
 ----------
 ### Notion Capital
 
-**Venture Capital Analyst : April&mdash;June 2014**
+**Venture Capital Analyst : April&mdash;June '14**
 
 -Reviewed potential investments, analysed the European Venture Capital space & assisted website launch.
 
 ### Entrepreneur  First
-**Product Manager:Jan 13 2013&mdash;March 2014**
+**Product Manager:Jan '13&mdash;March '14**
 
 [EF] is an accelerator programme that takes the best computer scientists and engineers and helps them build world-class tech startups.
 
@@ -80,13 +80,13 @@ During my time with them I built a new business unit for EF, consulted for [Avoc
 
 ### Morgan Stanley
 
-**Equity Research Analyst : July 2011&mdash;Oct 2012**
+**Equity Research Analyst : July '11&mdash;Oct '12**
 - Conducted detailed financial analysis of Asset Managers, Exchanges & Hedge Funds, rationalized team processes & built databases to better track industry trends
 - After <1 year, voted by clients as # 35th Analyst in Europe on Diversified Financial Companies (Extel ’12)
 - Continuously monitored real time financial news & worked as a team under pressure to produce timely assessments of results releases & company announcements
 - Given sole responsibility for publishing regular reports on exchange volume activity in Europe and for coordinating with other departments to organize the 3 day Morgan Stanley Financials Conference, attended by 50+ Corporates and ~1000 Investors
 
-**Equity Research Summer Analyst: July&mdash;Sep 2010**
+**Equity Research Summer Analyst: July&mdash;Sep '10**
 - Compiled research projects for the European Auto, Consumer Staples & Luxury Goods teams.
 
 _Internships also completed at **Nomura (FX Trading), CLSA & UBS (Asian Equity Sales)**_
@@ -111,7 +111,7 @@ GCSEs: **9 A*s** inc. RS, French, History, Latin & Art
 Extra-Curricular
 ----------
 
-### Edinburgh University’s Trading & Investment Club [EUTIC]
+### Edinburgh University’s Trading & Investment Club ([EUTIC])
 
 *With over 500 members EUTIC is Edinburgh’s largest non-sports society.
 The club meets weekly & manages a real money portfolio of £35,000.
