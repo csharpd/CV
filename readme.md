@@ -7,7 +7,7 @@ Chloe Donegan
 
 **Email:** [chloedonegan@gmail.com]
 
-Check out my code on Github
+Check out my code on [Github]
 Read more about my journey on my [blog]
 Connect with me on [LinkedIn] and [Twitter]
 
@@ -33,10 +33,10 @@ Web development
   - Ruby
   - Ruby on Rails
   - Sinatra
-  - Javascript<!-- , JQuery, AJAX, CoffeeScript -->
+  - Javascript
   - Object relational mappers like ActiveRecord and Datamapper
   - PostgreSQL
-  - Unit testing with RSpec <!-- and Jasmine -->
+  - Unit testing with RSpec
   - Integration testing using RSpec and Poltergeist
   - Behaviour driven development using Cucumber
   - Version control with git, pushing to GitHub
@@ -45,5 +45,33 @@ Web development
   - User authentication and authorisation with bcrypt and Devise
   - Websockets
   - Integration of APIs including Twilio, GMaps, Mailgun and Paperclip
-  <!-- - OmniAuth authentication with Facebook, Twitter and Map My Fitness. -->
   - Deployment to Heroku
+
+  Education
+  ----------
+
+  ### Makers Academy
+  **Web Development Bootcamp: June&mdash;September 2014**
+
+  - Highly selective 12 week full-time course
+  - Focussed on Pair Programming, Test Driven Development and Agile practices
+  - Ruby, object oriented programming and software design
+  - Final project: [Challenge Me] - a Rails 4 app that uses JustGiving's Api. Aim - making fundraising more engaging. Created in 10 days with [Nicola Aitken], [Jamie Allen], [Toan Nguyen], [Nikesh Ashar] and [Joe Dowdell].
+
+  ### University of Edinburgh
+   **2007&mdash; 2011**
+
+   - 2:1 MA (Hons) Philosophy
+   - Politics & Economics taken in 1st & 2nd year
+
+   ### Benenden School
+   | **A Levels** | **GCSEs**|
+  |:--------------- |:-------- |
+| Maths **A**| **9 A*s**|
+| Economics **A**| inc. RS, French|
+| Biology **A**| History, Latin|
+| Chemistry AS **A**| & Art|
+
+
+   --
+
