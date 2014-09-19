@@ -2,9 +2,7 @@ Chloe Donegan
 ==============
 
 I am a graduate of Makers academy. My background is in
- finance, startups and product management. I love to create things.
-
-**Currently available for work as a junior developer**
+finance, startups and product management. I love to create things. **Currently available for work as a junior developer**
 
 ##Web development
 ---------------
@@ -24,12 +22,12 @@ I am a graduate of Makers academy. My background is in
   - Deployment to Heroku
 
 ####Recent Projects
--------------
 
 | [Challenge Me] | [Chitter] | [Airport] |
 |:--------------- |:-------- |:--------- |
 | Test Driven Rails MVP created in 10 days to make fundraising fun. | Test-driven Twitter clone, created with Sinatra | 100% test-driven Ruby model of airports and planes written using RSpec |
 
+####Courses
 
 #### Makers Academy (June&mdash;September 2014)
 
@@ -44,24 +42,24 @@ Experience
 ----------
 ### Notion Capital
 
-**Venture Capital Analyst : April&mdash;June '14**
+**Venture Capital Analyst** (April-June '14)
 
 ### Entrepreneur  First
-**Product Manager:Jan '13&mdash;March '14**
+**Product Manager** (Jan'13 - March'14)
 
 [EF] is an accelerator programme that takes the best computer scientists and engineers and helps them build world-class tech startups.
-
-During my time with them I built a new business unit for EF, consulted for [Avocarrot], [Flavrbox] & [Farmdrop] & launched [Weave], a fashion startup.
 
 |**Testimonial - Matt Clifford, CEO at Entrepreneur First**|
 |:--------------- |
 |_"Chloe is exceptionally effective. I hired Chloe to build out a new business at Entrepreneur First. She succeeded in this in an extremely short period of time and in the process not only built new and deep relationships for the company, but created new institutional knowledge which we now use daily. I was consistently impressed by her mastery of detail, her ability to design new and effective processes and, most of all, her ability to deliver (profitable) results with minimal guidance. I would hire Chloe again in a heartbeat."_|
 
+During my time with them I built a new business unit for EF, consulted for [Avocarrot], [Flavrbox] & [Farmdrop] & launched [Weave], a fashion startup.
+
 ### Morgan Stanley
 
-**Equity Research Analyst : July '11&mdash;Oct '12**
+**Equity Research Analyst** (July '11-Oct '12)
 
-**Equity Research Summer Analyst: July&mdash;Sep '10**
+**Equity Research Summer Analyst** (July-Sep '10)
 
 _Internships also completed at **Nomura (FX Trading), CLSA & UBS (Asian Equity Sales)**_
 
@@ -85,8 +83,8 @@ GCSEs: **9 A*s** inc. RS, French, History, Latin & Art
 Other Information
 ----------
 - **Interests** Software Craftsmanship, UX, Design, Yoga, Climbing Mountains
-- You can read more about my interests and journey[here]
-- For a complete copy of my CV please email me at[chloedonegan@gmail.com]
+- You can read more about my interests and journey [here]
+- For a complete copy of my CV please email me at [chloedonegan@gmail.com]
 - You can also contact me via [LinkedIn] or [Twitter]
 
 [chloedonegan@gmail.com]: mailto:chloedonegan@gmail.com
