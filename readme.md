@@ -64,7 +64,7 @@ Experience
 
 [EF] is an accelerator programme that takes the best computer scientists and engineers and helps them build world-class tech startups.
 
-During my time with them I built a new business unit for EF, consulted for [Avocarrot], [Flavrbox] & [Farmdrop] & launched a startup.
+During my time with them I built a new business unit for EF, consulted for [Avocarrot], [Flavrbox] & [Farmdrop] & launched Weave, a fashion startup.
 
 **[Weave], iOS App**
 - We used agile development methods to rapidly iterate our prototype and applied lean principles throughout, testing our hypotheses before building features.
