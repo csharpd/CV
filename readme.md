@@ -29,11 +29,11 @@ finance, startups and product management. I love to create things. **Currently a
 
 ####Courses
 
-#### Makers Academy (June&mdash;September 2014)
+#### Makers Academy (June - September 2014)
 
 - Highly selective 12 week full-time web development course, focused on imparting best practices such as Test Driven Development, Pair Programming and Agile methodologies.
 
-#### CodeFirst Girls (June&mdash;August 2013)
+#### CodeFirst Girls (June - August 2013)
 
 - 8 week part time course that provided an introduction to HTML, CSS, Ruby, Sinatra, Rails, MongoDB, git and GitHub
 
@@ -42,10 +42,10 @@ Experience
 ----------
 ### Notion Capital
 
-**Venture Capital Analyst** (April-June '14)
+**Venture Capital Analyst** (April -June '14)
 
 ### Entrepreneur  First
-**Product Manager** (Jan'13 - March'14)
+**Product Manager** (Jan '13 - March '14)
 
 [EF] is an accelerator programme that takes the best computer scientists and engineers and helps them build world-class tech startups.
 
@@ -61,7 +61,8 @@ During my time with them I built a new business unit for EF, consulted for [Avoc
 
 **Equity Research Summer Analyst** (July-Sep '10)
 
-_Internships also completed at **Nomura (FX Trading), CLSA & UBS (Asian Equity Sales)**_
+
+_Internships also completed at Nomura (FX Trading), CLSA & UBS (Asian Equity Sales)_
 
 Education
 ----------
