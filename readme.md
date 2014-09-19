@@ -1,14 +1,12 @@
 Chloe Donegan
 ==============
 
-**Phone:** 07832367439
-
 **Email:** [chloedonegan@gmail.com]
 
 **Currently available for work as a junior developer**
 
 My background is in finance, startups & product management.
-I love creating things. In 2014 I devoted 3 months to learning how to build software myself at [Makers Academy].
+I love creating things. In 2014 I devoted 3 months entirely to learning how to build software at [Makers Academy].
 
 - Check out my code on [Github]
 - Read more about my journey on my [blog]
@@ -30,7 +28,6 @@ Web development
 - Highly selective 12 week full-time course
 - Focused on Pair Programming, Test Driven Development and Agile practices
 - Ruby, object oriented programming and software design
-- Full stack web development
 - Final project: [Challenge Me] - a Rails 4 app to make fundraising more engaging and fun. Created in 10 days with [Nicola Aitken], [Jamie Allen], [Toan Nguyen], [Nikesh Ashar] and [Joe Dowdell].
 
 ### Skills
