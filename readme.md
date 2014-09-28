@@ -83,7 +83,7 @@ GCSEs: **9 A*s** inc. RS, French, History, Latin & Art
 
 Other Information
 ----------
-- **Interests** Software Craftsmanship, UX, Design, Yoga, Climbing Mountains
+- **Interests** Software Craftsmanship, UX, Design, Yoga
 - You can read more about my interests and journey [here]
 - For a complete copy of my CV please email me at [chloedonegan@gmail.com]
 - You can also contact me via [LinkedIn] or [Twitter]
