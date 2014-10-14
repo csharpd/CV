@@ -3,10 +3,10 @@ Chloe Donegan
 
 **Currently available for work as a junior developer**
 
-I am a graduate of Makers academy. 
-My background is in finance, startups and product management.
-Once upon a time I had a fashion startup, [Weave] 
-I love to create things that are beautiful and useful. 
++ I am a graduate of Makers academy. 
++ My background is in [finance], [startups] and product management.
++ Once upon a time I had a fashion startup, [Weave]. 
++ I love creating things that are both beautiful & useful.  
 
 
 ##Web development
@@ -115,6 +115,8 @@ Other Information
 [Flavrbox]: http://flavrbox.com/
 [Farmdrop]: https://www.farmdrop.co.uk/#/
 [Makers Academy]: http://www.makersacademy.com/
+[finance]: http://www.morganstanley.com/
+[startups]: http://www.joinef.com/
 
 
 
