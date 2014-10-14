@@ -1,8 +1,13 @@
 Chloe Donegan
 ==============
 
-I am a graduate of Makers academy. My background is in
-finance, startups and product management. I love to create things. **Currently available for work as a junior developer**
+**Currently available for work as a junior developer**
+
+I am a graduate of Makers academy. 
+My background is in finance, startups and product management.
+Once upon a time I had a fashion startup, [Weave] 
+I love to create things that are beautiful and useful. 
+
 
 ##Web development
 ---------------
@@ -88,6 +93,7 @@ Other Information
 - For a complete copy of my CV please email me at [chloedonegan@gmail.com]
 - You can also contact me via [LinkedIn] or [Twitter]
 
+[Weave]: www.weaveuk.com
 [chloedonegan@gmail.com]: mailto:chloedonegan@gmail.com
 [Github]: https://github.com/csharpd
 [here]: http://geekchicme.tumblr.com/
