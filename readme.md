@@ -21,7 +21,7 @@ Chloe Donegan
   - Javascript, JQuery, AJAX
   - Databases (PostgreSQL, ActiveRecord, Datamapper)
   - Version control using Git & GitHub
-  - CSS3, Sass and Twitter Bootstrap 3
+  - HTML, HAML, CSS3, Sass and Twitter Bootstrap 3
   - User authentication and authorisation with bcrypt and Devise
   - APIs (Twilio, GMaps, Mailgun, FourSquare)
   - Deployment to Heroku
