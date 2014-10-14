@@ -6,7 +6,7 @@ Chloe Donegan
 + I am a graduate of Makers academy. 
 + My background is in [finance], [startups] and product management.
 + Once upon a time I had a fashion startup, [Weave]. 
-+ I love creating things that are both beautiful & useful.  
++ I love creating things that are both useful & beautiful.  
 
 
 ##Web development
