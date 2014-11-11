@@ -1,7 +1,7 @@
 Chloe Donegan
 ==============
 
-**Currently available for work as a Front End junior developer**
+**Currently available for work as a Front End Junior Developer**
 
 + I am a graduate of [Makers Academy]. 
 + My background is in [finance], [startups] and product management.
