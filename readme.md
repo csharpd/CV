@@ -1,12 +1,12 @@
 Chloe Donegan
 ==============
 
-**Currently available for work as a junior developer**
+**Currently available for work as a Front End junior developer**
 
-+ I am a graduate of Makers academy. 
++ I am a graduate of [Makers Academy]. 
 + My background is in [finance], [startups] and product management.
 + Once upon a time I had a fashion startup, [Weave]. 
-+ I love creating things that are both useful & beautiful.  
++ I love creating things that are useful & beautiful.  
 
 
 ##Web development
@@ -28,6 +28,9 @@ Chloe Donegan
 
 ####Recent Projects
 
+| [TwitterFrontEnd] | [Nest] | [Janban] |
+|:--------------- |:-------- |:--------- |
+| Recreated Twitter with Sass & Haml | Jasmine tested Javascript thermostat | Object Orientated JS Kanban board |
 | [Challenge Me] | [Chitter] | [Airport] |
 |:--------------- |:-------- |:--------- |
 | Test Driven Rails MVP created in 10 days to make fundraising fun. | Test-driven Twitter clone, created with Sinatra | 100% test-driven Ruby model of airports and planes written using RSpec |
@@ -117,6 +120,9 @@ Other Information
 [Makers Academy]: http://www.makersacademy.com/
 [finance]: http://www.morganstanley.com/
 [startups]: http://www.joinef.com/
+[janban]: https://github.com/ecomba/janban
+[TwitterFrontEnd]: https://github.com/csharpd/twitter_haml
+[Nest]: https://github.com/csharpd/nest
 
 
 
