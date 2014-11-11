@@ -30,7 +30,8 @@ Chloe Donegan
 
 | [TwitterFrontEnd] | [Nest] | [Janban] |
 |:--------------- |:-------- |:--------- |
-| Recreated Twitter with Sass & Haml | Jasmine tested Javascript thermostat | Object Orientated JS Kanban board |
+| Recreated Twitter using Sass & Haml | Jasmine tested javascript thermostat | Object Orientated javascript Kanban board |
+
 | [Challenge Me] | [Chitter] | [Airport] |
 |:--------------- |:-------- |:--------- |
 | Test Driven Rails MVP created in 10 days to make fundraising fun. | Test-driven Twitter clone, created with Sinatra | 100% test-driven Ruby model of airports and planes written using RSpec |
