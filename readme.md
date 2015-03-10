@@ -1,11 +1,8 @@
 Chloe Donegan
 ==============
 
-**Currently available for work as a Front End Junior Developer**
-
-+ I am a graduate of [Makers Academy]. 
++ I am a working as a developer at [Lyst]. 
 + My background is in [finance], [startups] and product management.
-+ Once upon a time I had a fashion startup, [Weave]. 
 + I love creating things that are useful & beautiful.  
 
 
@@ -14,6 +11,7 @@ Chloe Donegan
 
 ####Skills
 
+  - Python & Django
   - Ruby & Ruby on Rails
   - Sinatra
   - Unit testing with RSpec
@@ -27,6 +25,10 @@ Chloe Donegan
   - Deployment to Heroku
 
 ####Recent Projects
+
+| [FeedMe.London] | 
+|:--------------- |
+| Location-based JS app that helps you find the best places to eat nearby | 
 
 | [TwitterFrontEnd] | [Nest] | [Janban] |
 |:--------------- |:-------- |:--------- |
@@ -49,6 +51,10 @@ Chloe Donegan
 
 Experience
 ----------
+### Lyst
+
+**Developer** (Dec 14 - Present)
+
 ### Notion Capital
 
 **Venture Capital Analyst** (April -June '14)
@@ -124,6 +130,8 @@ Other Information
 [janban]: https://github.com/ecomba/janban
 [TwitterFrontEnd]: https://github.com/csharpd/twitter_haml
 [Nest]: https://github.com/csharpd/nest
+[FeedMe.London]: http://www.feedme.london/
+[Lyst]: http://www.lyst.com/
 
 
 
