@@ -106,7 +106,7 @@ Other Information
 [Weave]: www.weaveuk.com
 [chloedonegan@gmail.com]: mailto:chloedonegan@gmail.com
 [Github]: https://github.com/csharpd
-[here]: http://geekchicme.tumblr.com/
+[here]: http://csharpd.github.io/
 [LinkedIn]: uk.linkedin.com/in/chloedonegan/
 [Twitter]: https://twitter.com/ThisIsChloeD?lang=en
 [Challenge Me]: https://github.com/yoshdog/challenge-me
